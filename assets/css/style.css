@@ -1,11 +1,4 @@
-/*
-Template Name: Bevy
-Theme URI:
-Author: Uideep89webexpert
-Author URI:
-Description: Bevy template custom style
-Version: 1.0.0
-*/
+
 
 
 /* -------------------------------------------
@@ -1494,10 +1487,10 @@ ul.star_rating li i.fill{
     position: absolute;
     left: 0;
     top: 0;
-    background: rgba(51,99,245,0.9);
+    background: rgba(145, 200, 179,0.9);
 }
 .hiring_block.lets_work_block:after{
-    background: rgba(113,3,188,0.9);    
+    background: rgba(145, 200, 179,0.9);    
 }
 .lets_work_block h2{
     color: #fff;
@@ -2135,11 +2128,11 @@ a.close_menu {
 }
 .template-three .lets_work_block:after,
 .template-three .hiring_block.lets_work_block:after {
-    background: rgba(252, 74, 26, 0.9);
+    background: rgba(145, 200, 179, 0.9);
 }
 
 .template-three .lets_work_block:after {
-    background: rgba(247, 183, 51, 0.9);
+    background: rgba(145, 200, 179, 0.9);
 }
 .template-three .blog_item:after{
     background: #fc4a1a;
@@ -2486,11 +2479,11 @@ a.close_menu {
 }
 .template-five .lets_work_block:after,
 .template-five .hiring_block.lets_work_block:after {
-    background: rgba(0, 163, 203, 0.9);
+    background: rgba(145, 200, 179, 0.9);
 }
 
 .template-five .lets_work_block:after {
-    background: rgba(68, 218, 252, 0.9);
+    background: rgba(145, 200, 179, 0.9);
 }
 .template-five .blog_item:after{
     background: #91c8b3;
